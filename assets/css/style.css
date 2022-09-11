@@ -488,7 +488,10 @@ h6 {
     opacity: 0;
   }
 }
-
+@media (min-width: 992px) {
+ #scroll a span {
+    top: 82%;
+  }
 	
 /*--------- scroll end ---------------*/
 
